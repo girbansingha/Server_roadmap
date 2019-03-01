@@ -1,0 +1,22 @@
+# (abc.com from bigrock to godaddy or vice versa.)
+
+1. access of cPanel of both hosting server.
+
+2.Take backups of Database and the file to be transfered
+  > goto public_html to take zip of the file & download.
+  > goto to take backup.
+
+3. Goto new hosting cPanel(godaddy)
+
+4. Goto addon Domain type domain name (abc.com) and procced.
+
+5. if you are Restoring the downloaded sql file goto wizard backup. 
+
+6. Upload thhe downloaded main file in the folder, created in new server.  
+
+7. Update name server of current domain (abc.com in godaddy.)
+
+  >Goto desired domain (abc.com) > DNS > Change IP Address.
+
+(fetch the IP Address from the primary domain > manage web hosting > copy IP Address. )
+
