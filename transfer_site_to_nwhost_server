@@ -16,7 +16,8 @@
 
 7. Update name server of current domain (abc.com in godaddy.)
 
-  >Goto desired domain (abc.com) > DNS > Change IP Address.
+  >Goto desired domain (abc.com) > DNS > Change Name Server.
 
-(fetch the IP Address from the primary domain > manage web hosting > copy IP Address. )
+(fetch the name server from the primary domain > manage web hosting > copy name server. )
+(fetch the IP Address from the primary domain > manage web hosting > copy IP Address.if both server is same)
 
